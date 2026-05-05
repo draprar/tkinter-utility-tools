@@ -24,8 +24,8 @@ From generating secret keys 🔑 to spotting duplicate files 🗂️ and hunting
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/draprar/tkinter-utility-tools_urminion.git
-   cd tkinter-utility-tools_urminion
+   git clone https://github.com/draprar/tkinter-utility-tools.git
+   cd tkinter-utility-tools
    ```
 
 2. Install dependencies:
